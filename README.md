@@ -5,7 +5,7 @@ https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-techn
 
 Skills: C++/Microsoft sql
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Java,python 
 - 📫 How to reach me: blenassefa03@gmail.com 
 
